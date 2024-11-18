@@ -1,0 +1,127 @@
+HEAD OF INPUT DATA:
+   var1(t-1)  var2(t-1)  var3(t-1)  ...  var14(t-1)  var15(t-1)   var1(t)
+1   0.102094   0.013966   0.340977  ...    0.090909    0.226719  0.113874
+2   0.113874   0.698324   0.358541  ...    0.068182    0.302292  0.102094
+3   0.102094   0.016760   0.391771  ...    0.068182    0.302292  0.099476
+4   0.099476   0.790503   0.387478  ...    0.068182    0.377865  0.112565
+5   0.112565   0.013966   0.390688  ...    0.090909    0.151146  0.078534
+
+[5 rows x 16 columns]
+
+Epoch 1/50
+233/233 - 2s - loss: 0.0097 - val_loss: 0.0024 - 2s/epoch - 7ms/step
+Epoch 2/50
+233/233 - 0s - loss: 0.0085 - val_loss: 0.0024 - 261ms/epoch - 1ms/step
+Epoch 3/50
+233/233 - 0s - loss: 0.0074 - val_loss: 0.0021 - 256ms/epoch - 1ms/step
+Epoch 4/50
+233/233 - 0s - loss: 0.0058 - val_loss: 8.3959e-04 - 252ms/epoch - 1ms/step
+Epoch 5/50
+233/233 - 0s - loss: 0.0043 - val_loss: 6.2733e-04 - 267ms/epoch - 1ms/step
+Epoch 6/50
+233/233 - 0s - loss: 0.0036 - val_loss: 6.6631e-04 - 262ms/epoch - 1ms/step
+Epoch 7/50
+233/233 - 0s - loss: 0.0033 - val_loss: 6.4412e-04 - 260ms/epoch - 1ms/step
+Epoch 8/50
+233/233 - 0s - loss: 0.0031 - val_loss: 5.4322e-04 - 253ms/epoch - 1ms/step
+Epoch 9/50
+233/233 - 0s - loss: 0.0030 - val_loss: 4.8895e-04 - 250ms/epoch - 1ms/step
+Epoch 10/50
+233/233 - 0s - loss: 0.0028 - val_loss: 4.4334e-04 - 251ms/epoch - 1ms/step
+Epoch 11/50
+233/233 - 0s - loss: 0.0028 - val_loss: 4.0753e-04 - 247ms/epoch - 1ms/step
+Epoch 12/50
+233/233 - 0s - loss: 0.0027 - val_loss: 4.0113e-04 - 251ms/epoch - 1ms/step
+Epoch 13/50
+233/233 - 0s - loss: 0.0027 - val_loss: 4.0316e-04 - 250ms/epoch - 1ms/step
+Epoch 14/50
+233/233 - 0s - loss: 0.0027 - val_loss: 4.1001e-04 - 244ms/epoch - 1ms/step
+Epoch 15/50
+233/233 - 0s - loss: 0.0026 - val_loss: 4.1061e-04 - 243ms/epoch - 1ms/step
+Epoch 16/50
+233/233 - 0s - loss: 0.0026 - val_loss: 4.0699e-04 - 245ms/epoch - 1ms/step
+Epoch 17/50
+233/233 - 0s - loss: 0.0026 - val_loss: 4.0173e-04 - 252ms/epoch - 1ms/step
+Epoch 18/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.9012e-04 - 251ms/epoch - 1ms/step
+Epoch 19/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.9385e-04 - 253ms/epoch - 1ms/step
+Epoch 20/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.8264e-04 - 251ms/epoch - 1ms/step
+Epoch 21/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.7232e-04 - 246ms/epoch - 1ms/step
+Epoch 22/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.6943e-04 - 246ms/epoch - 1ms/step
+Epoch 23/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.6964e-04 - 245ms/epoch - 1ms/step
+Epoch 24/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.6360e-04 - 245ms/epoch - 1ms/step
+Epoch 25/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.5406e-04 - 247ms/epoch - 1ms/step
+Epoch 26/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.5178e-04 - 252ms/epoch - 1ms/step
+Epoch 27/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.4460e-04 - 248ms/epoch - 1ms/step
+Epoch 28/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.4391e-04 - 254ms/epoch - 1ms/step
+Epoch 29/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.3808e-04 - 347ms/epoch - 1ms/step
+Epoch 30/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.3358e-04 - 264ms/epoch - 1ms/step
+Epoch 31/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.3274e-04 - 252ms/epoch - 1ms/step
+Epoch 32/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.2899e-04 - 269ms/epoch - 1ms/step
+Epoch 33/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.2805e-04 - 255ms/epoch - 1ms/step
+Epoch 34/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.2765e-04 - 341ms/epoch - 1ms/step
+Epoch 35/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.2295e-04 - 419ms/epoch - 2ms/step
+Epoch 36/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.2073e-04 - 466ms/epoch - 2ms/step
+Epoch 37/50
+233/233 - 2s - loss: 0.0026 - val_loss: 3.1732e-04 - 2s/epoch - 9ms/step
+Epoch 38/50
+233/233 - 1s - loss: 0.0026 - val_loss: 3.1509e-04 - 636ms/epoch - 3ms/step
+Epoch 39/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.1624e-04 - 262ms/epoch - 1ms/step
+Epoch 40/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.1152e-04 - 346ms/epoch - 1ms/step
+Epoch 41/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.1451e-04 - 257ms/epoch - 1ms/step
+Epoch 42/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.1312e-04 - 269ms/epoch - 1ms/step
+Epoch 43/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.1513e-04 - 260ms/epoch - 1ms/step
+Epoch 44/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.1291e-04 - 274ms/epoch - 1ms/step
+Epoch 45/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.0726e-04 - 268ms/epoch - 1ms/step
+Epoch 46/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.0346e-04 - 263ms/epoch - 1ms/step
+Epoch 47/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.0135e-04 - 251ms/epoch - 1ms/step
+Epoch 48/50
+233/233 - 0s - loss: 0.0026 - val_loss: 2.9936e-04 - 261ms/epoch - 1ms/step
+Epoch 49/50
+233/233 - 0s - loss: 0.0025 - val_loss: 3.0590e-04 - 261ms/epoch - 1ms/step
+Epoch 50/50
+233/233 - 0s - loss: 0.0026 - val_loss: 3.0195e-04 - 287ms/epoch - 1ms/step
+
+1/1 [==============================] - ETA: 0s
+1/1 [==============================] - 0s 255ms/step
+      actual               predicted
+========================================
+0.7799999713897705 -> 0.77488774061203
+0.7099999785423279 -> 0.6670650243759155
+0.8700000047683716 -> 0.7113613486289978
+0.5799999833106995 -> 0.8385414481163025
+0.5699999928474426 -> 0.5711080431938171
+0.4399999976158142 -> 0.6565848588943481
+0.4399999976158142 -> 0.5539678931236267
+0.49000003933906555 -> 0.522642195224762
+0.4000000059604645 -> 0.5929545760154724
+0.5099999904632568 -> 0.5503484010696411
+0.5600000023841858 -> 0.5471429824829102
+Test RMSE: 0.133
